@@ -8,15 +8,23 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ca57c740417cbd85",
+            "id": "15e8acd3e96f85ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "brown2024.md",
+                "mode": "source",
                 "source": true
               }
+            }
+          },
+          {
+            "id": "940c6f1cabbf8bab",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "brown2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "brown2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "brown2024.md"
               }
             }
           }
@@ -133,8 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,12 +153,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca57c740417cbd85",
+  "active": "15e8acd3e96f85ff",
   "lastOpenFiles": [
-    "literatur.bib",
     "Templates/Extended Template.md",
+    "brown2024.md",
+    "Untitled 1.md",
     "README.md",
-    "Templates",
-    "Welcome.md"
+    "brown2024/image-5-x49-y184.png",
+    "brown2024",
+    "Testfile.md",
+    "Untitled.md",
+    "Welcome.md",
+    "literatur.bib",
+    "Templates"
   ]
 }
